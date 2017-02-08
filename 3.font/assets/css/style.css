@@ -1,0 +1,27 @@
+
+   @font-face{
+       font-family: "CormorantInfant-Bold";
+       src: url(../fonts/CormorantInfant-Bold.ttf);
+    
+   }
+
+body{
+background-color: #F8F8FF;
+    }
+    
+a {
+    text-decoration:none;
+    color: #8B3A62;
+   }
+   
+   
+  p{
+      font-family: "CormorantInfant-Bold";
+      border:solid 1px #8B3A62;
+      padding: 10px;
+      width: 200px
+  }
+  
+  
+  
+  

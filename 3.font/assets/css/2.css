@@ -1,0 +1,13 @@
+body{
+    background-color: #FFF8DC;
+}
+  
+   @font-face{
+       font-family: "CormorantInfant-Bold";
+       src: url(../fonts/CormorantInfant-Bold.ttf);
+    
+   }
+    p{
+      font-family: "CormorantInfant-Bold";
+     
+  }
