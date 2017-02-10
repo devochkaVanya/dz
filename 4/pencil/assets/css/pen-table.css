@@ -1,0 +1,30 @@
+.k{
+    background-image: url(../img/pencil-bg.png);
+    background-repeat: repeat-x;
+   
+    
+    
+}
+ table{
+     width:85vw;
+     max-width:1000px;
+ }
+ 
+.g{
+    background-image: url(../img/pencil-grifel.png);
+    background-repeat: no-repeat;
+    height: 24px;
+    width: 34px; /*  задается ширина кончика карандаша */
+    
+    
+    
+}
+
+
+div{
+    height: 200px;
+    width: 1000px;
+    background-image: url(../img/bg1.png);
+    background-repeat: repeat;
+ 
+}

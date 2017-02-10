@@ -1,0 +1,25 @@
+.k1{
+    background-image: url(../img/pencil-bg.png);
+    background-repeat: repeat-x;
+    float: left;
+    height: 1cm;
+    width:calc(100vw - 106px);
+    
+    
+    
+}
+.g1{
+    background-image: url(../img/pencil-grifel.png);
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 90px; 
+    
+    float: left;
+}
+
+body{
+    
+    background-image: url(../img/bg1.png);
+}
+
+    
